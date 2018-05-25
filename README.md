@@ -1,2 +1,1 @@
-# darmstadt-cellular
-Cellular base stations in Darmstadt, Germany
+# darmstadt-cellularLocation of cellular base stations in Darmstadt, Germany.To motivate the re-use of existing infrastructures to deploy cloudlets in an urban environment, we crawled the positions of cellular base stations in Darmstadt via the website of the [*Bundesnetzagentur*](https://emf3.bundesnetzagentur.de/karte/).## PublicationsWhen re-using the data, please consider citing the following publications:* Julien Gedeon, Jeff Krisztinkovics, Christian Meurisch, Michael Stein, Lin Wang, Max Mühlhäuser: **A Multi-Cloudlet Infrastructure for Future Smart Cities**. In *Proceedings of the 1st International Workshop on Edge Systems, Analytics and Networking (EdgeSys'18)*. (to appear) 
