@@ -3,6 +3,9 @@ Location of cellular base stations in Darmstadt, Germany.
 
 To motivate the re-use of existing infrastructures to deploy cloudlets in an urban environment, we crawled the positions of cellular base stations in Darmstadt via the website of the [*Bundesnetzagentur*](https://emf3.bundesnetzagentur.de/karte/).
 
+## Dataset description
+The file ``locations.csv`` contains the latitude and longitude of the base stations (GPS/WGS84 coordinates).  
+
 ## Publications
 When re-using the data, please consider citing the following publications:
 
